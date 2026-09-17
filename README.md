@@ -1,10 +1,8 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de Lucas Álvarez
 
-**[TU CURSO] · Curso 2026-2027**
+**1º Bachillerato · Curso 2026-2027**
 
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
-
+Aquí voy escribiendo lo que hago en Tecnología Digitales Aplicadas, trabajos, proyectos, etc.
 ---
 
 ## Índice
@@ -14,7 +12,7 @@ hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y c
 | [Primer trimestre](trimestre-1.md) | Mis entradas de septiembre a diciembre |
 | [Segundo trimestre](trimestre-2.md) | Mis entradas de enero a marzo |
 | [Tercer trimestre](trimestre-3.md) | Mis entradas de abril a junio |
-| [Temas del curso](temas.md) | Lo que voy escribiendo sobre lo que va pasando |
+| [Temas del curso](temas.md) | Lo que voy escribiendo sobre lo que va pasando |  
 
 ---
 
