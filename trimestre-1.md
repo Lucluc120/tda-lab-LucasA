@@ -1,4 +1,4 @@
-.[← Volver al inicio](README.md)
+[← Volver al inicio](README.md)
 # Primer trimestre
 ### 14/09 · Mi primer TDA Lab
 
