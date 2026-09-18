@@ -1,10 +1,13 @@
 [← Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+###18/09 - Mis aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Llevo desde los 4 años jugando a fútbol, me he movido entre equipos de mi pueblo.
+Lo que más me gusta es el conseguir parar los tiros que antes me parecía imposible. 
+Entreno los lunes, miércoles y viernes y los sábados juego un partido. También ayudo 
+a mis amigos a componer alguna canción.
+
 
 ```
 ### Título del tema — fecha
