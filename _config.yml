@@ -1,11 +1,3 @@
-# ==========================================================
-#  Este archivo solo hace efecto cuando enciendes la web
-#  (Settings -> Pages). Hasta entonces, no molesta.
-#
-#  Cambia el titulo y la descripcion por los tuyos.
-#  Y prueba a cambiar la palabra del tema: cambia todo el aspecto.
-#  Otros temas: minima, midnight, architect, slate, hacker, dinky
-# ==========================================================
 title: TDA Lab de prueba
 description: Tecnologías Digitales Aplicadas
 remote_theme: Moliw4n/tda-lab-tema
