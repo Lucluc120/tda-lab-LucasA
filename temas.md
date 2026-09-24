@@ -1,7 +1,7 @@
 [← Volver al inicio](README.md)
 # Temas del curso
 
-###18/09 - Mis aficiones
+18/09 - Mis aficiones
 
 Llevo desde los 4 años jugando a fútbol, me he movido entre equipos de mi pueblo.
 Lo que más me gusta es el conseguir parar los tiros que antes me parecía imposible. 
