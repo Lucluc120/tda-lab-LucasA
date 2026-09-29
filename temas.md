@@ -10,11 +10,4 @@ También ayudo a mis amigos a componer alguna canción.
 
 ![Mi portero favorito](capturas/adrian.jpg)
 
-```
-### Título del tema — fecha
-
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+[Más información del deporte](https://github.com/jokecamp/FootballData)
