@@ -22,3 +22,6 @@ del 2026 por varias razones entre ellas están: ser el jugador con más títulos
 y una gran carrera tanto individual como colectiva.
 En lo personal me gustaría que lo ganara porque ha marcado parte de mi infancia y ha sido uno de mis jugadores favoritos.
 
+![](capturas/messi.jpg)
+
+[Premio Princesa de Asturias de Messi](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=acta)
